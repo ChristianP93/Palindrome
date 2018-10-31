@@ -55,4 +55,4 @@ function okPalindrome(text) {
 
 console.time("test3");
 console.log(okPalindrome("deleveled"));
-//console.log(okPalindrome("adam"));
+console.log(okPalindrome("adam"));
